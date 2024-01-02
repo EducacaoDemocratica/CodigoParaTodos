@@ -6,10 +6,12 @@
 Algoritmo "Q26 - exRepeticao"
 
 Var
+
     n, i: inteiro
     s: real
 
 Inicio
+
     i <- 0
     s <- 0
 
