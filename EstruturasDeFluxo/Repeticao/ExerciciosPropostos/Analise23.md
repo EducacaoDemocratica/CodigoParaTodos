@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo23.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Quantos anos serão necessários para que a árvore A seja maior que a árvore B.
+
+- Quantos anos serão necessários para que a árvore A seja maior que a árvore B.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída  |
