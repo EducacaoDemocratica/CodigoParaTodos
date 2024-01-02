@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo06.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Os múltiplos de 7 de 1 a 100 em sequência.
+
+- Os múltiplos de 7 de 1 a 100 em sequência.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                              |
