@@ -6,6 +6,7 @@
 Algoritmo "Q1 - exRepeticao"
 
 Var
+
     i, lsup: inteiro
 
 Inicio
