@@ -1,7 +1,7 @@
 # Exercício 09
 
 [**Ver Análise**](Analise09.md)
-
+```
 Algoritmo "Q9 - exCondicional"
 
 Var
