@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo12.md)
 
 **Entrada**
-Um número positivo \( n \).
+
+- Um número positivo \( n \).
 
 **Saída**
-Se \( n \) é maior que 5 ou não.
+
+- Se \( n \) é maior que 5 ou não.
 
 **Restrições**
-\( n \) deve ser maior que 0.
+
+- \( n \) deve ser maior que 0.
 
 **Exemplo**
 | Entrada | Saída                |
