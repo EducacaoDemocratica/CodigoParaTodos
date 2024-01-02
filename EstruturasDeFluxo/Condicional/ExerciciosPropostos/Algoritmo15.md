@@ -2,13 +2,15 @@
 # Exercício 15
 
 [**Ver Análise**](Analise15.md)
-```
+```markdown
 Algoritmo "Q15 - exCondicional"
 
 Var
-g, a, p: real
+
+    g, a, p: real
 
 Inicio
+
     escreva("Insira o valor do litro de gasolina: R$")
     leia(g)
 
