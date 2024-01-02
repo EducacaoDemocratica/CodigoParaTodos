@@ -1,13 +1,15 @@
 # Exercício 06
 
 [**Ver Análise**](Analise06.md)
-```
+```markdown
 Algoritmo "Q6 - exCondicional"
 
 Var
-n: inteiro
+
+    n: inteiro
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n)
     escreval
