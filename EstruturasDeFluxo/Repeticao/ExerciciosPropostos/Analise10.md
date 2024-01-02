@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo10.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-As tabuadas (10 primeiros múltiplos) de 1 até 9.
+
+- As tabuadas (10 primeiros múltiplos) de 1 até 9.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                               |
