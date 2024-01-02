@@ -1,12 +1,12 @@
 ---
 #  Exercício 01
 [**Ver análise**](Analise01.md)
-```
+```markdown
 Algoritmo "Q1 - exSequencial"
 
 Var
 
- n1, n2, s: real
+  n1, n2, s: real
 
 Inicio
 
