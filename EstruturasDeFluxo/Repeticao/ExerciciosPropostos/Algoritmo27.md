@@ -6,9 +6,11 @@
 Algoritmo "Q27 - exRepeticao"
 
 Var
+
     n, i, fat, j, s: inteiro
 
 Inicio
+
     i <- 0
     s <- 0
 
