@@ -1,7 +1,7 @@
 # Exercício 02
 
 [**Ver Análise**](Analise02.md)
-```
+```markdown
 Algoritmo "Q2 - exCondicional"
 
 Var
