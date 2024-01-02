@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo03.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Soma dos números de 1 a 100.
+
+- Soma dos números de 1 a 100.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída |
