@@ -2,13 +2,15 @@
 # Exercício 17
 
 [**Ver Análise**](Analise17.md)
-```
+```markdown
 Algoritmo "Q17 - exCondicional"
 
 Var
-c, t, a, vf: real
+
+    c, t, a, vf: real
 
 Inicio
+
     c <- 450
     escreval("Selecione o seu animal:")
     escreval("1 - Gato | 2 - Papagaio | 3 - Cão | 4 - Nenhum")
