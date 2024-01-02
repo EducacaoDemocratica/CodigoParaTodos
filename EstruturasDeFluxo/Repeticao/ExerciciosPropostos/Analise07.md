@@ -2,13 +2,15 @@
 [**Ver Algoritmo**](Algoritmo07.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Os números de 30 a 100 em sequência.
+
+- Os números de 30 a 100 em sequência.
 
 **Restrições**
-Nenhuma.
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                       |
