@@ -1,7 +1,8 @@
+---
 # Exercício 15
 
 [**Ver Análise**](Analise15.md)
-
+```
 Algoritmo "Q15 - exCondicional"
 
 Var
