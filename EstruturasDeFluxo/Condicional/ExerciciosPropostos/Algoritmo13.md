@@ -2,13 +2,15 @@
 # Exercício 13
 
 [**Ver Análise**](Analise13.md)
-```
+```markdown
 Algoritmo "Q13 - exCondicional"
 
 Var
-n, m: real
+
+    n, m: real
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n)
 
