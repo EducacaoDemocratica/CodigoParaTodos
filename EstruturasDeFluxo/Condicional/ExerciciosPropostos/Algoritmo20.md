@@ -1,7 +1,8 @@
+---
 # Exercício 20
 
 [**Ver Análise**](Analise20.md)
-
+```
 Algoritmo "Q20 - exCondicional"
 
 Var
