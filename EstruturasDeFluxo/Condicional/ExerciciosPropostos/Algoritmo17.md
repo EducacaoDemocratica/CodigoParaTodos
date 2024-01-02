@@ -1,7 +1,8 @@
+---
 # Exercício 17
 
 [**Ver Análise**](Analise17.md)
-
+```
 Algoritmo "Q17 - exCondicional"
 
 Var
