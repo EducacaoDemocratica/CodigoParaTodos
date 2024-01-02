@@ -31,4 +31,14 @@ Inicio
             i <- i + 1
             se (i mod 10 = 0) entao
                 escreval
-           
+            fimse
+
+            se (i = n) entao
+                escreval(k, ".")
+            senao
+                escreva(k, ",")
+            fimse
+        fimse
+    fimenquanto
+
+Fimalgoritmo
