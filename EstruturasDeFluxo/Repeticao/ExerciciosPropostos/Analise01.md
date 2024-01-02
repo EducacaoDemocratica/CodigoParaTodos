@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo01.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Os números de 1 a 5 em sequência.
+
+- Os números de 1 a 5 em sequência.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída         |
