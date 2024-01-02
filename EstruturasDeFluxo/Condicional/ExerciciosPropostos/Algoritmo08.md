@@ -11,7 +11,7 @@ Var
 
 Inicio
 
-escreva("Insira um número: ")
+    escreva("Insira um número: ")
     leia(n1)
     escreva("Insira um número: ")
     leia(n2)
