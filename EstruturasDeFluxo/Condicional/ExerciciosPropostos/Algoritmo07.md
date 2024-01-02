@@ -1,7 +1,7 @@
 # Exercício 07
 
 [**Ver Análise**](Analise07.md)
-
+```
 Algoritmo "Q7 - exCondicional"
 
 Var
