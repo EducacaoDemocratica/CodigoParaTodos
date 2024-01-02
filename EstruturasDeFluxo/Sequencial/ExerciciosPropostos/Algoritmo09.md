@@ -1,6 +1,6 @@
 # Exercício 09
 [**Ver Análise**](Analise09.md)
-```
+```markdown
 Algoritmo "Q9 - exSequencial"
 
 Var
