@@ -10,6 +10,7 @@ Var
     i, lsup: inteiro
 
 Inicio
+
     i <- 0
     lsup <- 5
     escreval("Inteiros de 1 a", lsup, ":")
