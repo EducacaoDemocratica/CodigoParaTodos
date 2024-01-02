@@ -1,9 +1,14 @@
 ---
 # Exercício 19
 
+[**Ver Algoritmo**](Algoritmo19.md)
+
 *Faça um pseudocódigo que entre com um valor qualquer de \(x\), calcule e imprima o valor de \(f(x)\):*
 
-\[ f(x) = \frac{8}{2-x} \]
+$$
+f(x) = \frac{8}{2-x}
+$$
+
 
 **Entrada**
 
@@ -25,4 +30,3 @@
 | 2       | Indefinido |
 | 3       | -8        |
 
----
