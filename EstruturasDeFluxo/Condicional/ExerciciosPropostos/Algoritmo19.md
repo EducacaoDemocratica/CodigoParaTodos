@@ -1,7 +1,8 @@
+---
 # Exercício 19
 
 [**Ver Análise**](Analise19.md)
-
+```
 Algoritmo "Q19 - exCondicional"
 
 Var
