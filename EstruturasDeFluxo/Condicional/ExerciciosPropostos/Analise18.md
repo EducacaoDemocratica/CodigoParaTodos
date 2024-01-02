@@ -1,6 +1,8 @@
 ---
 # Exercício 18
 
+[**Ver Algoritmo**](Algoritmo18.md)
+
 *Faça um pseudocódigo que leia um valor qualquer de \(x\) e imprima o valor de \(y\), sabendo que:*
 
 \[y = f(x)\]
@@ -33,5 +35,3 @@ x^3, & \text{se } x > 3
 | 0.222   | 1     |
 | 4       | 64    |
 | 2.5     | 6.25  |
-
----
