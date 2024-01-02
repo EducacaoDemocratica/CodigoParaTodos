@@ -1,14 +1,16 @@
 # Exercício 12
 
 [**Ver Análise**](Analise12.md)
-```
+```markdown
 Algoritmo "Q12 - exCondicional"
 
 Var
-l1, l2, l3: inteiro
-t: logico
+
+    l1, l2, l3: inteiro
+    t: logico
 
 Inicio
+
     t <- verdadeiro
     escreva("Insira o valor para um lado de um triângulo: ")
     leia(l1)
