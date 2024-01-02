@@ -2,13 +2,15 @@
 # Exercício 18
 
 [**Ver Análise**](Analise18.md)
-``` 
+``` markdown
 Algoritmo "Q18 - exCondicional"
 
 Var
-x, y: real
+
+    x, y: real
 
 Inicio
+
     escreva("Insira o valor de x: ")
     leia(x)
 
