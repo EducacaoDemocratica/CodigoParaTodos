@@ -1,6 +1,8 @@
 ---
 # Exercício 09
 
+[**Ver Algoritmo**](Algoritmo01.md)
+
 *Faça um pseudocódigo que leia dois números quaisquer e informe se eles são iguais.*
 
 **Entrada**
