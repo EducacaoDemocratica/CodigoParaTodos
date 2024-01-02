@@ -1,27 +1,27 @@
----
-#  Exercício 01
-[**Ver análise**](Analise01.md)
+# Exercício 01
+
+[**Ver Análise**](Analise01.md)
 ```markdown
 Algoritmo "Q1 - exSequencial"
 
 Var
 
-  n1, n2, s: real
-
+    n1, n2, s: real
+  
 Inicio
 
-  escreva("Insira o primeiro número: ")
+    escreva("Insira o primeiro número: ")
   
-  leia(n1)
+    leia(n1)
   
-  escreva("Insira o segundo número: ")
+    escreva("Insira o segundo número: ")
   
-  leia(n2)
+    leia(n2)
   
-  s <- n1 + n2
+    s <- n1 + n2
   
-  escreval
+    escreval
   
-  escreval("Soma de", n1," com", n2," =", s,".")
+    escreval("Soma de", n1, " com", n2, " =", s, ".")
 
 Fimalgoritmo
