@@ -1,9 +1,14 @@
 ---
 # Exercício 20
 
+[**Ver Algoritmo**](Algoritmo20.md)
+
 *Faça um pseudocódigo que leia um valor qualquer de \(x\), calcule e mostre o valor de \(f(x)\) dado por:*
 
-\[ f(x) = \frac{3}{{(x - 1)(2x + 1)}} \]
+$$
+f(x) = \frac{3}{{(x - 1)(2x + 1)}}
+$$
+
 
 **Entrada**
 
@@ -27,4 +32,4 @@
 
 *Observação: a restrição sempre será atendida uma vez que qualquer número real elevado ao quadrado (\(x^2\)) é um número maior ou igual a zero.*
 
----
+
