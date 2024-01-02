@@ -2,13 +2,15 @@
 # Exercício 16
 
 [**Ver Análise**](Analise16.md)
-```
+```markdown
 Algoritmo "Q16 - exCondicional"
 
 Var
-x, y: real
+
+    x, y: real
 
 Inicio
+
     escreva("Insira o valor de x: ")
     leia(x)
     escreva("Insira o valor de y: ")
