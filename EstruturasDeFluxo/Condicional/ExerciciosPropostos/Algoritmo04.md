@@ -1,13 +1,15 @@
 # Exercício 04
 
 [**Ver Análise**](Analise04.md)
-```
+```markdown
 Algoritmo "Q4 - exCondicional"
 
 Var
-n: inteiro
+
+    n: inteiro
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n)
     escreval
