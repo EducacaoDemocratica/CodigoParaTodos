@@ -1,6 +1,8 @@
 ---
 # Exercício 13
 
+[**Ver Algoritmo**](Algoritmo13.md)
+
 *Faça um pseudocódigo que recebe um valor qualquer e informe o módulo deste valor.*
 
 **Entrada**
@@ -23,4 +25,4 @@
 | -3.14   | 3.14  |
 | 10      | 10    |
 
----
+
