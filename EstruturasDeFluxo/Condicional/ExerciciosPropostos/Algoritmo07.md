@@ -5,9 +5,11 @@
 Algoritmo "Q7 - exCondicional"
 
 Var
-n, r: real
+
+    n, r: real
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n)
     escreval
