@@ -2,6 +2,7 @@
 
 [**Ver Análise**](Analise08.md)
 
+```
 Algoritmo "Q8 - exCondicional"
 
 Var
