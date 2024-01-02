@@ -3,7 +3,7 @@
 
 **Entrada**
 
-- sUm número inteiro positivo \( n \).
+- Um número inteiro positivo \( n \).
 
 **Saída**
 
