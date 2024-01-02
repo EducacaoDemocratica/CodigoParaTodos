@@ -1,6 +1,8 @@
 ---
 # Exercício 12
 
+[**Ver Algoritmo**](Algoritmo12.md)
+
 *Faça um pseudocódigo que receba a medida de 3 lados de um triângulo e informe se essas retas podem formar um triângulo. Caso possam, suponha que o triângulo seja retângulo e indique qual o lado é a hipotenusa.*
 
 **Entrada**
@@ -26,4 +28,3 @@
 | l1: 2; l2: 6; l3: 9 | Os lados não podem formar um triângulo.      |
 | l1: 2; l2: 0; l3: 5 | Medida inválida encontrada.                  |
 
----
