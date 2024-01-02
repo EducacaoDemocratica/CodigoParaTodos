@@ -1,13 +1,15 @@
 # Exercício 14
 
 [**Ver Análise**](Analise14.md)
-```
+```markdown
 Algoritmo "Q14 - exCondicional"
 
 Var
-p, f, t: real
+
+    p, f, t: real
 
 Inicio
+
     escreva("Insira o valor do produto: R$")
     leia(p)
 
