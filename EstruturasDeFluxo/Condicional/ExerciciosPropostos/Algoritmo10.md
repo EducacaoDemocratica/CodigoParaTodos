@@ -2,13 +2,15 @@
 
 [**Ver Análise**](Analise10.md)
 
-```
+```markdown
 Algoritmo "Q10 - exCondicional"
 
 Var
-n1, n2: real
+
+    n1, n2: real
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n1)
     escreva("Insira um número: ")
