@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo04.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Os números pares existentes entre 1 e 100 em sequência.
+
+- Os números pares existentes entre 1 e 100 em sequência.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                            |
