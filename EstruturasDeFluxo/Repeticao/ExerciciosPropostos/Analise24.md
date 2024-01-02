@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo24.md)
 
 **Entrada**
-Um número inteiro n.
+
+- Um número inteiro n.
 
 **Saída**
-O valor de S.
+
+- O valor de S.
 
 **Restrições**
-n precisa ser positivo.
+
+- n precisa ser positivo.
 
 **Exemplo**
 | Entrada | Saída |
