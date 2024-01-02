@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo14.md)
 
 **Entrada**
-Um número inteiro positivo \( n \).
+
+- sUm número inteiro positivo \( n \).
 
 **Saída**
-Todos os divisores de \( n \).
+
+- Todos os divisores de \( n \).
 
 **Restrições**
-\( n \) deve ser positivo.
+
+- \( n \) deve ser positivo.
 
 **Exemplo**
 | Entrada | Saída                |
