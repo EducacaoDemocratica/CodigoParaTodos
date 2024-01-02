@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo05.md)
 
 **Entrada**
-Um número \( n \) positivo qualquer.
+
+- Um número \( n \) positivo qualquer.
 
 **Saída**
-Os \( n \) primeiros números pares positivos.
+
+- Os \( n \) primeiros números pares positivos.
 
 **Restrições**
-\( n \) deve ser um número maior que zero.
+
+- \( n \) deve ser um número maior que zero.
 
 **Exemplo**
 | Entrada | Saída                  |
