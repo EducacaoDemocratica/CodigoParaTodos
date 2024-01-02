@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo21.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Os números inteiros do intervalo ]-2, 18] ∩ [-6, 9[.
+
+- Os números inteiros do intervalo ]-2, 18] ∩ [-6, 9[.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                         |
