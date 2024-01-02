@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo11.md)
 
 **Entrada**
-Um número positivo.
+
+- Um número positivo.
 
 **Saída**
-O mesmo número positivo.
+
+- O mesmo número positivo.
 
 **Restrições**
-O número deve ser maior que 0.
+
+- O número deve ser maior que 0.
 
 **Exemplo**
 | Entrada | Saída                          |
