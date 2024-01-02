@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo16.md)
 
 **Entrada**
-\( n \) número(s) positivo(s).
+
+- \( n \) número(s) positivo(s).
 
 **Saída**
-A soma dos \( n \) números.
+
+- A soma dos \( n \) números.
 
 **Restrições**
-O algoritmo deve se encerrar quando um número negativo for inserido.
+
+- O algoritmo deve se encerrar quando um número negativo for inserido.
 
 **Exemplo**
 | Entrada                           | Saída |
