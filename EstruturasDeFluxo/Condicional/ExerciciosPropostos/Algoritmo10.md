@@ -1,7 +1,8 @@
 # Exercício 10
 
 [**Ver Análise**](Analise10.md)
-´´´
+
+```
 Algoritmo "Q10 - exCondicional"
 
 Var
