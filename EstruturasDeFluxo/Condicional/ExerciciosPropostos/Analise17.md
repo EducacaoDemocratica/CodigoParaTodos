@@ -28,4 +28,4 @@
 - **Entrada:** 6  
   **Saída:** Opção inválida.
 
----
+
