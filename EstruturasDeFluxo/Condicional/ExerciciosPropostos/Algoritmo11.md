@@ -1,13 +1,15 @@
 # Exercício 11
 
 [**Ver Análise**](Analise11.md)
-```
+```markdown
 Algoritmo "Q11 - exCondicional"
 
 Var
-n: real
+
+    n: real
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n)
     escreval
