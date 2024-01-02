@@ -1,7 +1,7 @@
 # Exercício 04
 
 [**Ver Análise**](Analise04.md)
-
+```
 Algoritmo "Q4 - exCondicional"
 
 Var
