@@ -5,9 +5,11 @@
 Algoritmo "Q2 - exCondicional"
 
 Var
-n: inteiro
+
+    n: inteiro
 
 Inicio
+
     escreva("Insira um número: ")
     leia(n)
     escreval
