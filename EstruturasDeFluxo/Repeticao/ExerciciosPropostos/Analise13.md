@@ -2,13 +2,15 @@
 [**Ver Algoritmo**](Algoritmo13.md)
 
 **Entrada**
-Um número ímpar positivo \( n \).
+
+- Um número ímpar positivo \( n \).
 
 **Saída**
-Se \( n \) é maior que 5 ou não.
+- Se \( n \) é maior que 5 ou não.
 
 **Restrições**
-\( n \) deve ser positivo e ímpar.
+
+- \( n \) deve ser positivo e ímpar.
 
 **Exemplo**
 | Entrada | Saída                |
