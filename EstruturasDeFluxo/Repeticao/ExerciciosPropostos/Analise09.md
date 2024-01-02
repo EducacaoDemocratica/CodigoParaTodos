@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo09.md)
 
 **Entrada**
-Nenhuma.
+
+- Nenhuma.
 
 **Saída**
-Os 10 primeiros múltiplos de 5 que formam uma tabuada.
+
+- Os 10 primeiros múltiplos de 5 que formam uma tabuada.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                     |
