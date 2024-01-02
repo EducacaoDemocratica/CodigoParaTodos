@@ -1,6 +1,8 @@
 ---
 # Exercício 10
 
+[**Ver Algoritmo**](Algoritmo10.md)
+
 *Faça um pseudocódigo que leia dois números distintos e informe o maior entre eles.*
 
 **Entrada**
@@ -23,4 +25,4 @@
 | 1.999, 22   | 22    |
 | 18, 18      | Números iguais. |
 
----
+
