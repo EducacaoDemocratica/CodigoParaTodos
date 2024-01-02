@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo08.md)
 
 **Entrada**
-Nenhuma.
+
+- sNenhuma.
 
 **Saída**
-Os números de 100 a 30 em sequência decrescente.
+
+- Os números de 100 a 30 em sequência decrescente.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada | Saída                 |
