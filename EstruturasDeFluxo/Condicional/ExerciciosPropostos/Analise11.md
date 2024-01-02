@@ -1,6 +1,8 @@
 ---
 # Exercício 11
 
+[**Ver Algoritmo**](Algoritmo11.md)
+
 *Faça um pseudocódigo que leia um número e informe se esse número pertence ao intervalo \([-2, 18]\).*
 
 **Entrada**
@@ -23,4 +25,4 @@
 | 19      | Não está no intervalo|
 | -2.1    | Não está no intervalo|
 
----
+
