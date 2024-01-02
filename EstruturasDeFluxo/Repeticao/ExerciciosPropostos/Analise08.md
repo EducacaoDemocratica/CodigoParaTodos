@@ -3,7 +3,7 @@
 
 **Entrada**
 
-- sNenhuma.
+- Nenhuma.
 
 **Saída**
 
