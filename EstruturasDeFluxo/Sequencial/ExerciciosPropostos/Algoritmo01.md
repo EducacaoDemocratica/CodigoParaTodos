@@ -1,6 +1,7 @@
+---
 #  Exercício 01
 [**Ver análise**](Analise01.md)
-
+```
 Algoritmo "Q1 - exSequencial"
 
 Var
