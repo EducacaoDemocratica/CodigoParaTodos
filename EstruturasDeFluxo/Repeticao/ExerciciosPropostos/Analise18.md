@@ -2,13 +2,16 @@
 [**Ver Algoritmo**](Algoritmo18.md)
 
 **Entrada**
-100 números inteiros.
+
+- 100 números inteiros.
 
 **Saída**
-A soma dos números pares.
+
+- A soma dos números pares.
 
 **Restrições**
-Nenhuma.
+
+- Nenhuma.
 
 **Exemplo**
 | Entrada                                      | Saída |
