@@ -6,9 +6,11 @@
 Algoritmo "Q21 - exRepeticao"
 
 Var
+
     linf, lsup: inteiro
 
 Inicio
+
     linf <- -1
     lsup <- 8
 
