@@ -1,6 +1,8 @@
 ---
 # Exercício 08
 
+[**Ver Algoritmo**](Algoritmo08.md)
+
 *Faça um pseudocódigo que leia dois números e informe a divisão entre eles, se houver.*
 
 **Entrada**
