@@ -1,7 +1,7 @@
 # Exercício 12
 
 [**Ver Análise**](Analise12.md)
-
+```
 Algoritmo "Q12 - exCondicional"
 
 Var
