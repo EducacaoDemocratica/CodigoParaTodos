@@ -2,14 +2,16 @@
 
 [**Ver Análise**](Analise08.md)
 
-```
+```markdown
 Algoritmo "Q8 - exCondicional"
 
 Var
-n1, n2, d: real
+
+    n1, n2, d: real
 
 Inicio
-    escreva("Insira um número: ")
+
+escreva("Insira um número: ")
     leia(n1)
     escreva("Insira um número: ")
     leia(n2)
