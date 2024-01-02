@@ -2,13 +2,15 @@
 [**Ver Algoritmo**](Algoritmo15.md)
 
 **Entrada**
-15 números positivos.
+
+- 15 números positivos.
 
 **Saída**
-A soma dos números que são maiores que 5.
+- A soma dos números que são maiores que 5.
 
 **Restrições**
-Os números devem ser positivos.
+
+- Os números devem ser positivos.
 
 **Exemplo**
 | Entrada                                       | Saída |
