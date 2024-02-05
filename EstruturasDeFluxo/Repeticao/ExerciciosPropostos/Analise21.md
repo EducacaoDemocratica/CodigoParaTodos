@@ -1,5 +1,8 @@
 # Exercício 21
-[**Ver Algoritmo**](Algoritmo21.md)
+[**Ver Algoritmo**](Algoritmo21.md)]
+
+*Faça um pseudocódigo que informe na saída padrão todos os números inteiros
+que pertencem ao intervalo ]-2, 18] ∩ [-6, 9[.*
 
 **Entrada**
 
