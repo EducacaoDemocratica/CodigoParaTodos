@@ -1,6 +1,9 @@
 # Exercício 06
 [**Ver Algoritmo**](Algoritmo06.md)
 
+*Faça um pseudocódigo para informar os números múltiplos de 7 entre 1 e 100
+em sequência.*
+
 **Entrada**
 
 - Nenhuma.
