@@ -1,6 +1,8 @@
 # Exercício 14
 [**Ver Algoritmo**](Algoritmo14.md)
 
+*Faça um pseudocódigo que informe os divisores de um número inteiro positivo*
+
 **Entrada**
 
 - Um número inteiro positivo \( n \).
