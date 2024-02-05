@@ -1,6 +1,9 @@
 # Exercício 01
 [**Ver Algoritmo**](Algoritmo01.md)
 
+*Faça um pseudocódigo para informar os números inteiros de 1 até 5 em
+sequência.*
+
 **Entrada**
 
 - Nenhuma.
