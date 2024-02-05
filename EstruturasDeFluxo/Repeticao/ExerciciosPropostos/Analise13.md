@@ -1,6 +1,9 @@
 # Exercício 13
 [**Ver Algoritmo**](Algoritmo13.md)
 
+*Faça um pseudocódigo que receba um número ímpar positivo e informe se esse
+número é maior que 5.*
+
 **Entrada**
 
 - Um número ímpar positivo \( n \).
