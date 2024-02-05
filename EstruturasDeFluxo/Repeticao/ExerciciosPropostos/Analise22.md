@@ -1,11 +1,14 @@
 # Exercício 22
 [**Ver Algoritmo**](Algoritmo22.md)
 
+*Faça um pseudocódigo que receba uma sequência de números inteiros digitados
+pelo usuário até que se digite número -1 e informe qual foi o maior número digitado.*
+
 **Entrada**
-Números inteiros. O algoritmo encerra quando -1 for inserido.
+- Números inteiros. O algoritmo encerra quando -1 for inserido.
 
 **Saída**
-O maior número inserido no conjunto.
+- O maior número inserido no conjunto.
 
 **Restrições**
 Nenhuma.
