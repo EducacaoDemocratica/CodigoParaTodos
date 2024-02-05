@@ -1,6 +1,9 @@
 # Exercício 15
 [**Ver Algoritmo**](Algoritmo15.md)
 
+*Faça um pseudocódigo que receba 15 números positivos e informe a soma
+daqueles que são maiores que 5.*
+
 **Entrada**
 
 - 15 números positivos.
