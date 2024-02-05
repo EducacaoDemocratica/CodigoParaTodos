@@ -1,6 +1,9 @@
 # Exercício 11
 [**Ver Algoritmo**](Algoritmo11.md)
 
+*Faça um pseudocódigo que apresente na saída um número positivo digitado
+pelo usuário.*
+
 **Entrada**
 
 - Um número positivo.
