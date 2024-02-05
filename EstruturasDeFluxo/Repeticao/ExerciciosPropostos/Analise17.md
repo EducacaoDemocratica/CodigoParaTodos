@@ -1,6 +1,9 @@
 # Exercício 17
 [**Ver Algoritmo**](Algoritmo17.md)
 
+*Faça um pseudocódigo que some uma sequência de números digitados pelo
+usuário até que se digite o número -1*
+
 **Entrada**
 
 - \( n \) número(s) positivo(s).
