@@ -1,6 +1,9 @@
 # Exercício 18
 [**Ver Algoritmo**](Algoritmo18.md)
 
+*Faça um pseudocódigo que receba 100 números inteiros e informe a soma dos
+números que são pares.*
+
 **Entrada**
 
 - 100 números inteiros.
