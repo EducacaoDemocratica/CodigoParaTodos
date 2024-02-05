@@ -1,6 +1,9 @@
 # Exercício 05
 [**Ver Algoritmo**](Algoritmo05.md)
 
+*Faça um pseudocódigo para que receba um número n positivo e informe os n
+primeiros números pares positivos.*
+
 **Entrada**
 
 - Um número \( n \) positivo qualquer.
