@@ -1,6 +1,8 @@
 # Exercício 03
 [**Ver Algoritmo**](Algoritmo03.md)
 
+Faça um pseudocódigo para informar a soma dos números inteiros de 1 até 100.
+
 **Entrada**
 
 - Nenhuma.
