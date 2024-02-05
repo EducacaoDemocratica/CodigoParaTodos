@@ -1,6 +1,12 @@
 # Exercício 24
 [**Ver Algoritmo**](Algoritmo24.md)
 
+*Faça um pseudocódigo que informe o valor S dado pela série:*
+
+$$\
+S = 1 + 2 + 3 + \ldots + n
+\$$
+
 **Entrada**
 
 - Um número inteiro n.
