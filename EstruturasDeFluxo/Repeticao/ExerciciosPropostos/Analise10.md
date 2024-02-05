@@ -1,6 +1,8 @@
 # Exercício 10
 [**Ver Algoritmo**](Algoritmo10.md)
 
+*Faça um pseudocódigo que informe a tabuada de 1 a 9.*
+
 **Entrada**
 
 - Nenhuma.
