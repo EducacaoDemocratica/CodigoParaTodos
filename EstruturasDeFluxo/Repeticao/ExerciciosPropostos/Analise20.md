@@ -1,6 +1,9 @@
 # Exercício 20
 [**Ver Algoritmo**](Algoritmo20.md)
 
+*Faça um pseudocódigo que informe na saída padrão todos os números inteiros
+que pertencem ao intervalo [-2, 18] U [-6, 9[.*
+
 **Entrada**
 
 - Nenhuma.
