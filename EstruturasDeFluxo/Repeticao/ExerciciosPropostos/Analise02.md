@@ -1,6 +1,9 @@
 # Exercício 02
 [**Ver Algoritmo**](Algoritmo02.md)
 
+*Faça um pseudocódigo para informar os números inteiros de 1 até 100 em
+sequência.*
+
 **Entrada**
 
 - Nenhuma.
