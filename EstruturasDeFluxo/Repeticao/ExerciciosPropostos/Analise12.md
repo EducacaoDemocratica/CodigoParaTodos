@@ -1,6 +1,9 @@
 # Exercício 12
 [**Ver Algoritmo**](Algoritmo12.md)
 
+*Faça um pseudocódigo que receba um número positivo e informe se esse
+número é maior que 5.*
+
 **Entrada**
 
 - Um número positivo \( n \).
