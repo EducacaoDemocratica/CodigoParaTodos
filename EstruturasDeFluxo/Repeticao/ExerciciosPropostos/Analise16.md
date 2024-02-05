@@ -1,6 +1,10 @@
 # Exercício 16
 [**Ver Algoritmo**](Algoritmo16.md)
 
+
+*Faça um pseudocódigo que some uma sequência de números positivos digitados
+pelo usuário até que se digite um número negativo qualquer.*
+
 **Entrada**
 
 - \( n \) número(s) positivo(s).
