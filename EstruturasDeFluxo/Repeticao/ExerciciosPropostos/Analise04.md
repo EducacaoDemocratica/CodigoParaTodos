@@ -1,8 +1,8 @@
 # Exercício 04
 [**Ver Algoritmo**](Algoritmo04.md)
 
-Faça um pseudocódigo para informar os números pares entre 1 e 100 em
-sequência.
+*Faça um pseudocódigo para informar os números pares entre 1 e 100 em
+sequência.*
 
 **Entrada**
 
