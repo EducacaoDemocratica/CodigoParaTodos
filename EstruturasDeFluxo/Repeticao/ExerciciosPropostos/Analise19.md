@@ -1,6 +1,9 @@
 # Exercício 19
 [**Ver Algoritmo**](Algoritmo19.md)
 
+*Dado uma sequência de n números inteiros positivos começando em 1, faça um
+pseudocódigo que prove que (k1 + k2 + ... + kn)² = k1³ + k2³ + ... + kn³.*
+
 **Entrada**
 
 - Um número inteiro positivo n.
