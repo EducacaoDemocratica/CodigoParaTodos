@@ -1,6 +1,6 @@
 # Exercício 44
 
-(**Ver Algoritmo**)[Algoritmo44.md]
+[**Ver Algoritmo**](Algoritmo44.md)
 
 *Faça um pseudocódigo para calcular o seno de um valor x que deve estar entre 0 e 1.57 (π/2). O valor do seno é calculado pela soma dos 15 primeiros termos da série a seguir:*
 
