@@ -1,6 +1,6 @@
-# Exercício 44 - Cosseno
+# Exercício 45
 
-[**Ver Análise**](Analise44.md)
+[**Ver Análise**](Analise45.md)
 
 ```markdown
 Algoritmo "Q44 - Repeticao"
