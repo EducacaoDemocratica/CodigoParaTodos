@@ -1,0 +1,22 @@
+# Exercício 30
+
+[**Ver Algoritmo**](Algoritmo30.md)
+
+*Faça um pseudocódigo que informe quantos algarismos pares tem um número inteiro informado pelo usuário.*
+
+**Entrada:**
+- Um número inteiro n.
+
+**Saída:**
+- A quantidade de algarismos em n.
+
+**Restrições:**
+- Nenhuma.
+
+**Exemplo:**
+
+| Entrada | Saída |
+| ------- | ----- |
+| -1519 | 0 algarismos |
+| 309 | 1 algarismos |
+| 602 | 3 algarismos |
