@@ -1,4 +1,4 @@
-# Exercício 53 - Repeticao
+# Exercício 53 
 
 [**Ver Análise**](Analise53.md)
 
