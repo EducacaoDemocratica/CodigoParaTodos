@@ -1,4 +1,4 @@
-# Exercício 49 - Repeticao
+# Exercício 49
 
 [**Ver Análise**](Analise49.md)
 
