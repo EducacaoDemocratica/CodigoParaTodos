@@ -1,21 +1,25 @@
-# Exercício 51
+# Exercício 50
 
-[**Ver Algoritmo**](Algoritmo51.md)
+[**Ver Algoritmo**](Algoritmo50.md)
 
-*Faça um pseudocódigo que receba um número inteiro positivo e informe se esse número pode ser um valor válido na base 2 que só utiliza os algarismos 0 e 1.*
+*Faça um pseudocódigo que receba um valor inteiro e positivo, menor que 1000
+e retorne o seu valor em algarismo romano. Os algarismos romanos não tem
+representação para números negativos, para o zero e tem dificuldades em
+representar números maiores que mil.*
 
 **Entrada:**
-- Um número inteiro n.
+- Um número inteiro (n) maior que zero e menor que mil.
 
 **Saída:**
-- Se n é válido na base 2.
+- Um número inteiro (n) maior que zero e menor que mil.
 
 **Restrições:**
-- n precisa ser positivo.
+- O número deve ser maior que zero e menor do que mil.
 
 **Exemplo:**
 | Entrada | Saída |
 | ------- | ----- |
-| 0121 | Inválido na base 2. |
-| 1101 | Válido na base 2. |
-| -101 | Um número negativo foi encontrado. Insira outro número. |
+|37|XXXVII|
+|404|CDIV|
+|0|Erro: valor inválido. Insira entre 1 e 999.|
+|1000|Erro: valor inválido. Insira entre 1 e 999.|
