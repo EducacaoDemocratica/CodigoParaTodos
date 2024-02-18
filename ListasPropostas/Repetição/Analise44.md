@@ -1,5 +1,7 @@
 # Exercício 44
 
+(**Ver Algoritmo**)[Algoritmo44.md]
+
 *Faça um pseudocódigo para calcular o seno de um valor x que deve estar entre 0 e 1.57 (π/2). O valor do seno é calculado pela soma dos 15 primeiros termos da série a seguir:*
 
 $$\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \frac{x^9}{9!} - \frac{x^{11}}{11!} + \ldots$$
