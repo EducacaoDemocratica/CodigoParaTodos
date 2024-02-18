@@ -1,4 +1,4 @@
-# Exercício 51 - Repetição
+# Exercício 51 
 
 [**Ver Análise**](Analise51.md)
 
