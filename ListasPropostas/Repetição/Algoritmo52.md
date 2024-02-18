@@ -1,4 +1,4 @@
-# Exercício 52 - Repeticao
+# Exercício 52
 
 [**Ver Análise**](Analise52.md)
 
