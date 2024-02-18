@@ -1,4 +1,4 @@
-# Exercício 50 - Sequencial
+# Exercício 50 
 
 [**Ver Análise**](Analise50.md)
 
